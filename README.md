@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0048-rotate-image) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
@@ -149,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1028-interval-list-intersections](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1028-interval-list-intersections) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
