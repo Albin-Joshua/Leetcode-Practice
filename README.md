@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0739-daily-temperatures) |
+| [0948-sort-an-array](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1028-interval-list-intersections](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1028-interval-list-intersections) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0948-sort-an-array](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1019-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -136,14 +138,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0948-sort-an-array](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0948-sort-an-array](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0948-sort-an-array](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0948-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -161,4 +166,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0011-container-with-most-water) |
+## Merge Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0948-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0948-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0948-sort-an-array) |
 <!---LeetCode Topics End-->
