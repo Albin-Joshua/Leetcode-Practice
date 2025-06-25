@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0680-valid-palindrome-ii) |
+| [0812-rotate-string](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0812-rotate-string) |
 | [1894-merge-strings-alternately](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1894-merge-strings-alternately) |
 ## Stack
 |  |
@@ -341,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0204-count-primes) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
