@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2058-concatenation-of-array](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/2058-concatenation-of-array) |
 | [2386-min-max-game](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/2386-min-max-game) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/2876-number-of-employees-who-met-the-target) |
 ## Hash Table
 |  |
 | ------- |
