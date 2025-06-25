@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0808-number-of-matching-subsequences](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0808-number-of-matching-subsequences) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0954-maximum-sum-circular-subarray) |
 ## Memoization
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0739-daily-temperatures) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0792-binary-search) |
+| [0808-number-of-matching-subsequences](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0808-number-of-matching-subsequences) |
 | [0890-lemonade-change](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0948-sort-an-array) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0567-permutation-in-string) |
+| [0808-number-of-matching-subsequences](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0808-number-of-matching-subsequences) |
 ## Matrix
 |  |
 | ------- |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0456-132-pattern) |
 | [0658-find-k-closest-elements](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0792-binary-search) |
+| [0808-number-of-matching-subsequences](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0808-number-of-matching-subsequences) |
 ## Simulation
 |  |
 | ------- |
@@ -157,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0658-find-k-closest-elements) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0808-number-of-matching-subsequences](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0808-number-of-matching-subsequences) |
 | [0917-boats-to-save-people](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1019-squares-of-a-sorted-array) |
@@ -177,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0680-valid-palindrome-ii) |
+| [0808-number-of-matching-subsequences](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0808-number-of-matching-subsequences) |
 | [0812-rotate-string](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0812-rotate-string) |
 | [1894-merge-strings-alternately](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1894-merge-strings-alternately) |
 ## Stack
@@ -207,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0014-longest-common-prefix) |
+| [0808-number-of-matching-subsequences](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0808-number-of-matching-subsequences) |
 ## Two Pointers
 |  |
 | ------- |
