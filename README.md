@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0456-132-pattern](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0456-132-pattern) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -125,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
