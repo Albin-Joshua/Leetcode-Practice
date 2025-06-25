@@ -75,11 +75,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0020-valid-parentheses) |
 | [0456-132-pattern](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0503-next-greater-element-ii) |
