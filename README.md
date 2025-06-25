@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
+| [0658-find-k-closest-elements](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0739-daily-temperatures) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0374-guess-number-higher-or-lower) |
 | [0456-132-pattern](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0456-132-pattern) |
+| [0658-find-k-closest-elements](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0792-binary-search) |
 ## Simulation
 |  |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0455-assign-cookies) |
+| [0658-find-k-closest-elements](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0658-find-k-closest-elements) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0917-boats-to-save-people](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0948-sort-an-array) |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0680-valid-palindrome-ii) |
 | [0917-boats-to-save-people](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1019-squares-of-a-sorted-array) |
@@ -234,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -307,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0658-find-k-closest-elements) |
 ## Prefix Sum
 |  |
 | ------- |
