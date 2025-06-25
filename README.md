@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0739-daily-temperatures) |
+| [0792-binary-search](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0954-maximum-sum-circular-subarray) |
 | [1019-squares-of-a-sorted-array](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1019-squares-of-a-sorted-array) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0456-132-pattern](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0456-132-pattern) |
+| [0792-binary-search](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0792-binary-search) |
 ## Simulation
 |  |
 | ------- |
