@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0739-daily-temperatures) |
+| [1028-interval-list-intersections](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1028-interval-list-intersections) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2058-concatenation-of-array](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/2058-concatenation-of-array) |
 | [2386-min-max-game](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/2386-min-max-game) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
+| [1028-interval-list-intersections](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1028-interval-list-intersections) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -138,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
+## Line Sweep
+|  |
+| ------- |
+| [1028-interval-list-intersections](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1028-interval-list-intersections) |
 <!---LeetCode Topics End-->
