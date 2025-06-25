@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0268-missing-number) |
@@ -308,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0258-add-digits) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
