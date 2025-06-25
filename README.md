@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
@@ -91,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0456-132-pattern) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
