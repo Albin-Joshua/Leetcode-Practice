@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0456-132-pattern](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0374-guess-number-higher-or-lower) |
 | [0456-132-pattern](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0456-132-pattern) |
 | [0792-binary-search](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0792-binary-search) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0680-valid-palindrome-ii) |
 | [0917-boats-to-save-people](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0917-boats-to-save-people) |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0287-find-the-duplicate-number) |
 ## Union Find
 |  |
 | ------- |
