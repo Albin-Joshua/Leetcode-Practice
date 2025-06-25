@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0682-baseball-game) |
 | [2058-concatenation-of-array](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/2058-concatenation-of-array) |
 | [2386-min-max-game](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/2386-min-max-game) |
@@ -250,4 +252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
