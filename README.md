@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0258-add-digits) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0424-longest-repeating-character-replacement) |
