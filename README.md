@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0808-number-of-matching-subsequences](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0808-number-of-matching-subsequences) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0954-maximum-sum-circular-subarray) |
+| [2817-minimum-cost-to-make-all-characters-equal](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/2817-minimum-cost-to-make-all-characters-equal) |
 ## Memoization
 |  |
 | ------- |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-number-of-matching-subsequences](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0808-number-of-matching-subsequences) |
 | [0812-rotate-string](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0812-rotate-string) |
 | [1894-merge-strings-alternately](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1894-merge-strings-alternately) |
+| [2817-minimum-cost-to-make-all-characters-equal](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/2817-minimum-cost-to-make-all-characters-equal) |
 ## Stack
 |  |
 | ------- |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0680-valid-palindrome-ii) |
 | [0890-lemonade-change](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0917-boats-to-save-people) |
+| [2817-minimum-cost-to-make-all-characters-equal](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/2817-minimum-cost-to-make-all-characters-equal) |
 ## Merge Sort
 |  |
 | ------- |
