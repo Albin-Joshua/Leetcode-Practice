@@ -1,36 +1,21 @@
 class Solution {
     public int majorityElement(int[] nums) {
-/*        if(nums.length <= 2){
-            return nums[0];
-        }
-        Map<Integer, Integer> count = new HashMap<>();
-        int result=0;
-        int maxCount=0;
-        for(int num : nums){
-            count.put(num, count.getOrDefault(num,0)+1);
-            if(count.get(num)>maxCount){
-                result=num;
-                maxCount = count.get(num);
-            }
-        }
-        return result;*/
-
-        int count=0;
-        int value= Integer.MIN_VALUE;
-        for(int num:nums){
+        int count = 0;
+        int candidate = -1;
+        for(int i : nums){
             if(count == 0){
-                value = num;
                 count++;
-            }
-            else if(value==num){
-                count++;
+                candidate = i;
             }
             else{
-                count--;
+                if(i == candidate){
+                    count++;
+                }
+                else{
+                    count--;
+                }
             }
         }
-        return value;
+        return candidate;
     }
 }
-
-//Boyer Moore Algorithm
