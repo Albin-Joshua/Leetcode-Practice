@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0074-search-a-2d-matrix) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0074-search-a-2d-matrix) |
 | [2411-spiral-matrix-iv](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/2411-spiral-matrix-iv) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0682-baseball-game) |
 | [2058-concatenation-of-array](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/2058-concatenation-of-array) |
