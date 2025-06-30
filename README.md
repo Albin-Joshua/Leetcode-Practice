@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0268-missing-number) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1635-number-of-good-pairs](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1635-number-of-good-pairs) |
+| [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0682-baseball-game) |
 | [2058-concatenation-of-array](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/2058-concatenation-of-array) |
+| [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2386-min-max-game](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/2386-min-max-game) |
 ## Sorting
 |  |
