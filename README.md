@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1635-number-of-good-pairs](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1635-number-of-good-pairs) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0204-count-primes) |
+| [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 ## String Matching
 |  |
 | ------- |
