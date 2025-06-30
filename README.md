@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1635-number-of-good-pairs) |
 | [2058-concatenation-of-array](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/2058-concatenation-of-array) |
 | [2386-min-max-game](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/2386-min-max-game) |
+| [2411-spiral-matrix-iv](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/2411-spiral-matrix-iv) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 ## Hash Table
 |  |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0074-search-a-2d-matrix) |
+| [2411-spiral-matrix-iv](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/2411-spiral-matrix-iv) |
 ## Binary Search
 |  |
 | ------- |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/2058-concatenation-of-array) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2386-min-max-game](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/2386-min-max-game) |
+| [2411-spiral-matrix-iv](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/2411-spiral-matrix-iv) |
 ## Sorting
 |  |
 | ------- |
@@ -399,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0908-middle-of-the-linked-list) |
+| [2411-spiral-matrix-iv](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/2411-spiral-matrix-iv) |
 ## Recursion
 |  |
 | ------- |
