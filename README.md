@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0268-missing-number) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1610-xor-operation-in-an-array](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1635-number-of-good-pairs) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0287-find-the-duplicate-number) |
+| [1610-xor-operation-in-an-array](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1610-xor-operation-in-an-array) |
 ## Union Find
 |  |
 | ------- |
