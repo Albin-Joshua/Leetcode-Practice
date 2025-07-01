@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0374-guess-number-higher-or-lower) |
 | [0456-132-pattern](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0456-132-pattern) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0374-guess-number-higher-or-lower) |
 ## Bit Manipulation
 |  |
