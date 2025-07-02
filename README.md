@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0070-climbing-stairs) |
@@ -418,5 +419,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
