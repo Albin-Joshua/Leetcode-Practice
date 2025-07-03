@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0456-132-pattern) |
+| [0485-max-consecutive-ones](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
