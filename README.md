@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0268-missing-number) |
+| [1014-k-closest-points-to-origin](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1014-k-closest-points-to-origin) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1610-xor-operation-in-an-array](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1635-number-of-good-pairs) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0954-maximum-sum-circular-subarray) |
+| [1014-k-closest-points-to-origin](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1028-interval-list-intersections](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1028-interval-list-intersections) |
 | [1127-last-stone-weight](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1127-last-stone-weight) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-number-of-matching-subsequences](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0808-number-of-matching-subsequences) |
 | [0917-boats-to-save-people](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## String
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0954-maximum-sum-circular-subarray) |
+| [1014-k-closest-points-to-origin](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -310,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0658-find-k-closest-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1127-last-stone-weight) |
 ## Bucket Sort
 |  |
@@ -329,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1014-k-closest-points-to-origin) |
 ## Line Sweep
 |  |
 | ------- |
@@ -460,4 +466,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0062-unique-paths) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
