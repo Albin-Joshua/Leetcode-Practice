@@ -434,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0237-delete-node-in-a-linked-list) |
+| [0838-design-linked-list](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0908-middle-of-the-linked-list) |
 | [2411-spiral-matrix-iv](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/2411-spiral-matrix-iv) |
 ## Recursion
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0838-design-linked-list](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0838-design-linked-list) |
 ## Binary Search Tree
 |  |
 | ------- |
