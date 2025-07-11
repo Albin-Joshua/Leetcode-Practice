@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [2411-spiral-matrix-iv](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/2411-spiral-matrix-iv) |
 ## Binary Search
 |  |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0200-number-of-islands) |
 ## Sliding Window
 |  |
 | ------- |
@@ -487,4 +490,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1014-k-closest-points-to-origin) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
