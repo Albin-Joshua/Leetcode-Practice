@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0680-valid-palindrome-ii) |
 | [0808-number-of-matching-subsequences](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0808-number-of-matching-subsequences) |
 | [0812-rotate-string](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0812-rotate-string) |
+| [1078-remove-outermost-parentheses](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1250-longest-common-subsequence) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1894-merge-strings-alternately](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1894-merge-strings-alternately) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0739-daily-temperatures) |
+| [1078-remove-outermost-parentheses](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1078-remove-outermost-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
