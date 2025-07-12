@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0202-happy-number) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0137-single-number-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0189-rotate-array) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0316-remove-duplicate-letters) |
 | [0456-132-pattern](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0456-132-pattern) |
