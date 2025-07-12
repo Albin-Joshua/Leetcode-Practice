@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1610-xor-operation-in-an-array](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1635-number-of-good-pairs) |
+| [2032-largest-odd-number-in-string](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/2032-largest-odd-number-in-string) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 ## Dynamic Programming
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1250-longest-common-subsequence) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1894-merge-strings-alternately](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1894-merge-strings-alternately) |
+| [2032-largest-odd-number-in-string](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/2032-largest-odd-number-in-string) |
 | [2817-minimum-cost-to-make-all-characters-equal](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/2817-minimum-cost-to-make-all-characters-equal) |
 ## Stack
 |  |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0917-boats-to-save-people) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [2032-largest-odd-number-in-string](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/2032-largest-odd-number-in-string) |
 | [2817-minimum-cost-to-make-all-characters-equal](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/2817-minimum-cost-to-make-all-characters-equal) |
 ## Merge Sort
 |  |
