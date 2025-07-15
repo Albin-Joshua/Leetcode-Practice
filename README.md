@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0342-power-of-four) |
 | [0504-base-7](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0504-base-7) |
 | [1014-k-closest-points-to-origin](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1014-k-closest-points-to-origin) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0342-power-of-four) |
 | [1610-xor-operation-in-an-array](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1610-xor-operation-in-an-array) |
 ## Union Find
 |  |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0342-power-of-four) |
 ## Tree
 |  |
 | ------- |
