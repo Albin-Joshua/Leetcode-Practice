@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0316-remove-duplicate-letters) |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -520,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -538,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0463-island-perimeter) |
