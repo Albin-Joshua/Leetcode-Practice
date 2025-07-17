@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0392-is-subsequence) |
 | [0808-number-of-matching-subsequences](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0808-number-of-matching-subsequences) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0954-maximum-sum-circular-subarray) |
 | [1250-longest-common-subsequence](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1250-longest-common-subsequence) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0680-valid-palindrome-ii) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0658-find-k-closest-elements) |
