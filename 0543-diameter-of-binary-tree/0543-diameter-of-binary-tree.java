@@ -14,17 +14,17 @@
  * }
  */
 class Solution {
-    int maxi = Integer.MIN_VALUE;
-    public int f(TreeNode root){
-        if(root==null) return 0;
-        int lh = f(root.left);
-        int rh = f(root.right);
-        int d = lh+rh;
-        if(d>maxi) maxi = d;
-        return 1+Math.max(lh,rh);
-    }
+    int max=0;
     public int diameterOfBinaryTree(TreeNode root) {
-        int h = f(root);
-        return maxi;
+        int h=func(root);
+        return max;
+    }
+    public int func(TreeNode root){
+        if(root==null) return 0;
+        int lh = func(root.left);
+        int rh = func(root.right);
+        int temp = lh+rh;
+        max = Math.max(max, temp);
+        return 1+Math.max(lh, rh);
     }
 }
