@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2386-min-max-game](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/2386-min-max-game) |
 | [2411-spiral-matrix-iv](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/2411-spiral-matrix-iv) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
+| [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Hash Table
 |  |
 | ------- |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0695-max-area-of-island) |
 | [0898-transpose-matrix](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0898-transpose-matrix) |
 | [2411-spiral-matrix-iv](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/2411-spiral-matrix-iv) |
+| [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Binary Search
 |  |
 | ------- |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1603-running-sum-of-1d-array) |
+| [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Number Theory
 |  |
 | ------- |
