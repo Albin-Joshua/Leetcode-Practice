@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0792-binary-search) |
 | [0808-number-of-matching-subsequences](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0808-number-of-matching-subsequences) |
 | [0816-design-hashset](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0817-design-hashmap) |
 | [0890-lemonade-change](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0898-transpose-matrix) |
 | [0917-boats-to-save-people](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0917-boats-to-save-people) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0567-permutation-in-string) |
 | [0808-number-of-matching-subsequences](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0808-number-of-matching-subsequences) |
 | [0816-design-hashset](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0817-design-hashmap) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1635-number-of-good-pairs](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1635-number-of-good-pairs) |
 ## Matrix
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [0816-design-hashset](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0908-middle-of-the-linked-list) |
 | [2411-spiral-matrix-iv](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/2411-spiral-matrix-iv) |
@@ -561,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0838-design-linked-list) |
 ## Binary Search Tree
 |  |
@@ -629,4 +633,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
