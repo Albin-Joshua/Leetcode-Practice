@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0504-base-7) |
 | [1014-k-closest-points-to-origin](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1236-n-th-tribonacci-number](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1236-n-th-tribonacci-number) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1610-xor-operation-in-an-array](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1635-number-of-good-pairs) |
@@ -55,12 +56,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0392-is-subsequence) |
 | [0808-number-of-matching-subsequences](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0808-number-of-matching-subsequences) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0954-maximum-sum-circular-subarray) |
+| [1236-n-th-tribonacci-number](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1250-longest-common-subsequence) |
 | [2817-minimum-cost-to-make-all-characters-equal](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/2817-minimum-cost-to-make-all-characters-equal) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0070-climbing-stairs) |
+| [1236-n-th-tribonacci-number](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1236-n-th-tribonacci-number) |
 ## Array
 |  |
 | ------- |
