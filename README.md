@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0392-is-subsequence) |
+| [0747-min-cost-climbing-stairs](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0747-min-cost-climbing-stairs) |
 | [0808-number-of-matching-subsequences](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0808-number-of-matching-subsequences) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0954-maximum-sum-circular-subarray) |
 | [1236-n-th-tribonacci-number](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1236-n-th-tribonacci-number) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0739-daily-temperatures) |
+| [0747-min-cost-climbing-stairs](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0747-min-cost-climbing-stairs) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0792-binary-search) |
 | [0808-number-of-matching-subsequences](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0808-number-of-matching-subsequences) |
