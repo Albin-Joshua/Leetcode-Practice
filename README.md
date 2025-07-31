@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1028-interval-list-intersections](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1028-interval-list-intersections) |
+| [1039-find-the-town-judge](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1039-find-the-town-judge) |
 | [1127-last-stone-weight](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0817-design-hashmap) |
 | [0966-binary-subarrays-with-sum](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0966-binary-subarrays-with-sum) |
+| [1039-find-the-town-judge](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1039-find-the-town-judge) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1635-number-of-good-pairs](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1635-number-of-good-pairs) |
 ## Matrix
@@ -678,4 +680,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0816-design-hashset](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0817-design-hashmap) |
+## Graph
+|  |
+| ------- |
+| [1039-find-the-town-judge](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1039-find-the-town-judge) |
 <!---LeetCode Topics End-->
