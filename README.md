@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1028-interval-list-intersections](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1028-interval-list-intersections) |
 | [1127-last-stone-weight](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1127-last-stone-weight) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0695-max-area-of-island) |
 | [0898-transpose-matrix](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0898-transpose-matrix) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2411-spiral-matrix-iv](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/2411-spiral-matrix-iv) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Binary Search
@@ -670,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0695-max-area-of-island) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Hash Function
 |  |
 | ------- |
