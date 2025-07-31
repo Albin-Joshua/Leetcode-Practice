@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/2411-spiral-matrix-iv) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3738-make-array-non-decreasing](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/3738-make-array-non-decreasing) |
 ## Hash Table
 |  |
 | ------- |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [3738-make-array-non-decreasing](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/3738-make-array-non-decreasing) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0739-daily-temperatures) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [3738-make-array-non-decreasing](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/3738-make-array-non-decreasing) |
 ## Ordered Set
 |  |
 | ------- |
@@ -464,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [2032-largest-odd-number-in-string](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/2032-largest-odd-number-in-string) |
 | [2817-minimum-cost-to-make-all-characters-equal](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/2817-minimum-cost-to-make-all-characters-equal) |
+| [3738-make-array-non-decreasing](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/3738-make-array-non-decreasing) |
 ## Merge Sort
 |  |
 | ------- |
