@@ -618,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Design
 |  |
 | ------- |
@@ -651,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Data Stream
 |  |
 | ------- |
@@ -681,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0695-max-area-of-island) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -694,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0695-max-area-of-island) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Hash Function
 |  |
 | ------- |
