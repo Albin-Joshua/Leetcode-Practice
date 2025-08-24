@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/2032-largest-odd-number-in-string) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/2608-count-the-digits-that-divide-a-number) |
 ## Dynamic Programming
 |  |
 | ------- |
