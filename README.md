@@ -714,4 +714,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1039-find-the-town-judge](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1039-find-the-town-judge) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
