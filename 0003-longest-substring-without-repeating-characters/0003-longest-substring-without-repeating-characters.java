@@ -1,35 +1,24 @@
-/*Implemented using SlidingWindow concept.
 class Solution {
     public int lengthOfLongestSubstring(String s) {
-        Set<Character> string = new HashSet<>();
+        Set<Character> set = new HashSet<>();
+        int l=0;
+        int r=0;
+        int size = s.length();
         int result = 0;
-        int left = 0;
-        for(int right=0; right<s.length(); right++){
-            while(string.contains(s.charAt(right))){
-                string.remove(s.charAt(left));
-                left++;
+        while(r<size){
+            if(!set.contains(s.charAt(r))){
+                set.add(s.charAt(r));
+                r++;
             }
-            string.add(s.charAt(right));
-            result = Math.max(result, right-left+1);
-        }
-        return result;
-    }
-}
-*/
-
-/*Instead of using while loop inside the for loop to move the left pointer to move from duplicate elements
-we can use HASHMAP to store the value of last occurence of the character already appeared*/
-class Solution {
-    public int lengthOfLongestSubstring(String s) {
-        Map<Character, Integer> duplicate = new HashMap<>();
-        int result = 0;
-        int left = 0;
-        for(int right = 0;right<s.length(); right++ ){
-            if(duplicate.containsKey(s.charAt(right))){
-                left = Math.max(left, duplicate.get(s.charAt(right))+1);
+            else{
+                do{
+                    set.remove(s.charAt(l));
+                    l++;
+                }while(set.contains(s.charAt(r)));
+                set.add(s.charAt(r));
+                r++;
             }
-            duplicate.put(s.charAt(right), right);
-            result = Math.max(result, right-left+1);
+            result = Math.max(result, r-l);
         }
         return result;
     }
