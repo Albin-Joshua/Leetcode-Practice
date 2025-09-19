@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0898-transpose-matrix) |
 | [0917-boats-to-save-people](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0917-boats-to-save-people) |
+| [0940-fruit-into-baskets](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0954-maximum-sum-circular-subarray) |
 | [0966-binary-subarrays-with-sum](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0966-binary-subarrays-with-sum) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-number-of-matching-subsequences](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0808-number-of-matching-subsequences) |
 | [0816-design-hashset](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0817-design-hashmap) |
+| [0940-fruit-into-baskets](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0966-binary-subarrays-with-sum) |
 | [1039-find-the-town-judge](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1039-find-the-town-judge) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -548,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0658-find-k-closest-elements) |
+| [0940-fruit-into-baskets](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Albin-Joshua/Leetcode-Practice/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
